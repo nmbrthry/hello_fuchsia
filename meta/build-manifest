@@ -1,0 +1,3 @@
+bin/HelloWorld=build/HelloWorld
+meta/package=meta/package
+meta/HelloWorld.cm=meta/HelloWorld.cm
